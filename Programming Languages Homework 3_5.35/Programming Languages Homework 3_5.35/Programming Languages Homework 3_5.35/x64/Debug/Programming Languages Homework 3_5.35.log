@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(524,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+  Programming Languages Homework 3_5.35.vcxproj -> D:\c_code3\Programming Languages Homework 3_5.35\temp\debug\Programming Languages Homework 3_5.35.exe
